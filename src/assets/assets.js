@@ -17,6 +17,7 @@ import credit_icon from './credit_icon.png'
 import img_w_bg from './image_w_bg.png'
 import img_wo_bg from './image_wo_bg.png'
 
+
 export const assets = {
     logo,
     logo_icon,
